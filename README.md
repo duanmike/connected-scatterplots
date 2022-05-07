@@ -18,4 +18,4 @@ MilitaryData.csv for the military data
 
 AutoData.csv for the automobile data
 
-`Raw Data` folder for the raw data (pre-processed)
+`raw data` folder for the raw data (pre-processed)
